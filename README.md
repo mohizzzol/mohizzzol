@@ -16,7 +16,9 @@
 <div align="center">
   <img src="https://i.gifer.com/BQkA.gif" width="900" alt="Coding in the Dark GIF">
 </div>
+
 <div align="center">
+  
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_until_the_end_07_)
