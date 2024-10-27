@@ -22,6 +22,10 @@
   <img src="https://i.gifer.com/BQkA.gif" width="300" alt="Coding in the Dark GIF">
 </div>
 
+<img src="<img src="https://github.com/mohizzzol/myrepo/blob/main/assets/naruto-eyes.jpg" align="left" width="200" alt="Code Inferno Image" style="margin-right: 20px;">
+" align="left" width="200" alt="Code Inferno Image" style="margin-right: 20px;">
+
+
 <div align="center">
   
 ## 🌐 Connect with Me:
