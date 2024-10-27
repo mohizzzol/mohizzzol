@@ -1,18 +1,11 @@
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/3og0INAY5MLmewZnxu/giphy.gif" width="200" alt="Naruto Eyes Gif">
 </div>
 
 # 🔥 **Enter the Realm of Code & Chaos!**
-
 <p align="center">
-  <img src=![929138b90376142b815e314dca07b26a](https://github.com/user-attachments/assets/41cb6d5f-2e30-45d6-88df-69710947909b)
-"?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+Chaos;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+Chaos;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG">
 </p>
-
-<img src="![image](https://github.com/user-attachments/assets/e6a3b8d9-159e-45c4-9a1a-b619d599757d)
-" align="left" width="200" alt="Code Inferno Image" style="margin-right: 20px;">
 
 ## 👹 About Me:
 - 🔥 On a journey through **Software Development** and the depths of **Computer Science**.
@@ -20,15 +13,15 @@
 - ⚽ When I'm not coding, I'm on the field, **scoring goals** and living the **footballer life**.
 - 🖤 Fun fact: My world revolves around **tech, football, and a hint of darkness**.
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG8k/giphy.gif" width="400" alt="Coding in the Dark GIF">
+</div>
 
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_until_the_end_07_)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mohit8091318455)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mohit_deshmukh-e9z)
-
----
 
 # 💻 **Tech Stack**:
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
@@ -40,8 +33,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
----
-
 ## ⚔️ **GitHub Stats:**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohizzzol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -49,21 +40,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohizzzol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
----
-
 ## 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohizzzol&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
----
-
 ## 💬 **Quote of the Day**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
 </p>
-
----
 
 ## 🔝 **Top Contributed Repo**
 <p align="center">
@@ -74,8 +59,5 @@
   <img src="https://visitcount.itsvg.in/api?id=mohizzzol&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 </p>
 
----
+<!-- Made with 🖤 in the Dark Mode -->
 
-<div align="center">
-  <img src="https://i.pinimg.com/564x/50/07/30/5007306e2b08a7022b22f00a833a6b2b.jpg" width="200" alt="Code Inferno Image">
-</div>
