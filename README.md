@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Q8j4GDTBYkgF8LnHMz/giphy.gif" width="200" alt="Devilish Gif">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Welcome Gif">
 </div>
 
-# 🖤 **Welcome to My Dark Realm!**
+# 🔥 **Enter the Realm of Code & Chaos!**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff0000&center=true&vCenter=true&width=500&lines=I+am+a+Developer+with+an+Edge;Let's+Code+Through+the+Dark;Embrace+the+Code+Madness;Footballer+and+Code+Warrior" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+Chaos;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG">
 </p>
 
 ## 👹 About Me:
-- 🔥 Currently diving into **Software Development** and exploring the depths of **Computer Science**.
-- 🤘 Open for collaboration in **intense projects**—let's build the future!
-- ⚽ Off the keyboard, I'm on the field, **chasing goals** both in **tech** and in **football**.
-- 🖤 Fun fact: I'm a **passionate footballer** and thrive on **dark humor**!
+- 🔥 On a journey through **Software Development** and the depths of **Computer Science**.
+- 💀 Ready for intense, dark-themed collaborations—let’s create something groundbreaking!
+- ⚽ When I'm not coding, I'm on the field, **scoring goals** and living the **footballer life**.
+- 🖤 Fun fact: My world revolves around **tech, football, and a hint of darkness**.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEdv1BkU5Wlwb8L3K/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG8k/giphy.gif" width="400" alt="Coding in the Dark GIF">
 </div>
 
 ## 🌐 Connect with Me:
@@ -35,28 +35,28 @@
 
 ## ⚔️ **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohizzzol&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohizzzol&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohizzzol&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohizzzol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohizzzol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohizzzol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohizzzol&theme=onedark&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohizzzol&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ## 💬 **Quote of the Day**
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
 </p>
 
 ## 🔝 **Top Contributed Repo**
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mohizzzol&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=mohizzzol&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohizzzol&label=Profile%20Views&color=12&icon=2&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=mohizzzol&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 </p>
 
-<!-- Generated with Love ❤️ by Devil's Dark Mode -->
+<!-- Made with 🖤 in the Dark Mode -->
