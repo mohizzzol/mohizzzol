@@ -10,7 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+Chaos;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG">
 </p>
 
-<img src="https://i.pinimg.com/564x/50/07/30/5007306e2b08a7022b22f00a833a6b2b.jpg" align="left" width="200" alt="Code Inferno Image" style="margin-right: 20px;">
+<img src="![image](https://github.com/user-attachments/assets/e6a3b8d9-159e-45c4-9a1a-b619d599757d)
+" align="left" width="200" alt="Code Inferno Image" style="margin-right: 20px;">
 
 ## 👹 About Me:
 - 🔥 On a journey through **Software Development** and the depths of **Computer Science**.
