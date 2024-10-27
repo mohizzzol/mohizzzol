@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Welcome Gif">
+  <img src="https://media.giphy.com/media/3og0INAY5MLmewZnxu/giphy.gif" width="200" alt="Naruto Eyes Gif">
 </div>
 
 # 🔥 **Enter the Realm of Code & Chaos!**
