@@ -67,9 +67,11 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=mohizzzol&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
 
+
 <div align="center">  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRvZHU0dTJneXl5M2pycGIxNmZkbmd0MjZuaDMybGEzZXdoYnZhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Pz3glsQiO9EBNglcu/giphy.gif" width="700" alt="Naruto Eyes Gif">
 </div>
+
 
 
 
