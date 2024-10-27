@@ -7,7 +7,8 @@
 # 🔥 **Enter the Realm of Code & Chaos!**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+Chaos;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG">
+  <img src=![929138b90376142b815e314dca07b26a](https://github.com/user-attachments/assets/41cb6d5f-2e30-45d6-88df-69710947909b)
+"?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+Chaos;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG">
 </p>
 
 <img src="![image](https://github.com/user-attachments/assets/e6a3b8d9-159e-45c4-9a1a-b619d599757d)
