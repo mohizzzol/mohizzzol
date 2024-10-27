@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # 💫 About Me:
 🔭 I’m currently working on softwares<br>👯 I’m looking to collaborate on if you want<br>🤝 I’m looking for help with nothing<br>🌱 I’m currently learning Computer science<br>💬 Ask me about anything<br>⚡ Fun fact I am a footballer
 
