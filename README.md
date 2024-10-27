@@ -2,6 +2,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlxNzZ5Mnl5cmRyODZxcjM4YjVkNHJwMTI4aWR4ZTRnempxYXI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DpaNIXwZaVPvnTomcj/giphy.gif" width="700" alt="Naruto Eyes Gif">
 </div>
 
+<div align="center">
+  
 # 🔥 **Enter the world of Code & Darkness!**
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+Chaos;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG">
