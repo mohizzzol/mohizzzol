@@ -19,11 +19,10 @@
 🖤 Fun fact: My world revolves around **tech, football, and a hint of darkness**.
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/ba890e4a-fc0c-4c7b-863a-e2ce95f3f8ee)
-" width="300" alt="Coding in the Dark GIF">
+  <img src="<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlxNzZ5Mnl5cmRyODZxcjM4YjVkNHJwMTI4aWR4ZTRnempxYXI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DpaNIXwZaVPvnTomcj/giphy.gif" width="700" alt="Naruto Eyes Gif">
+</div>" width="700" alt="Naruto Eyes Gif">
 </div>
-
-<img src="https://github.com/mohizzzol/myrepo/blob/main/assets/naruto-eyes.jpg" align="left" width="200" alt="Code Inferno Image" style="margin-right: 20px;">
 
 <div align="center">
   
