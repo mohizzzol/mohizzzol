@@ -49,7 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohizzzol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohizzzol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohizzzol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://camo.githubusercontent.com/f98930ff8c6d4fb25450e531103f47a2cf6c7edb3fa52e4deeb6c1de9921568d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d466172756b68533532267468656d653d7261646963616c26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374username=mohizzzol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🏆 **GitHub Trophies**
@@ -85,4 +85,3 @@
 
   
 <!-- Made with 🖤 in the Dark Mode -->
-              </>
