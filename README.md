@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3og0INAY5MLmewZnxu/giphy.gif" width="200" alt="Naruto Eyes Gif">
 </div>
 
-# 🔥 **Enter the Realm of Code & Chaos!**
+# 🔥 **Enter the world of Code & Darkness!**
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+Chaos;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG">
 </p>
