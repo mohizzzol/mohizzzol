@@ -6,8 +6,8 @@
   
 # 🔥 **Enter the world of Code & Darkness!**
 <p align="center">
-<!-- <!--   <img src="https://readme-typing-svg.demolab.com -->
-  font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+darkness;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG"> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Welcome+to+the+Code+Inferno;Where+Coding+Meets+Darkness!;Developer+and+Footballer;Unleashing+Tech+Through+Darkness!" alt="Typing SVG">
 </p>
 
 ## 👹 About Me:
