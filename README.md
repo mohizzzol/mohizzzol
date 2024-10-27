@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3og0INAY5MLmewZnxu/giphy.gif" width="200" alt="Naruto Eyes Gif">
+  <img src="https://i.gifer.com/BQkA.gif" width="200" alt="Naruto Eyes Gif">
 </div>
 
 # 🔥 **Enter the world of Code & Darkness!**
