@@ -33,10 +33,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mohit8091318455)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mohit_deshmukh-e9z)
 
-<div align="center">
-  <img src="<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBndGZiNGZ6ZjRhN3FuczJ4eWVnNWd5MTkxNXdpdjQxNmNiN3p0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Pz3glsQiO9EBNglcu/giphy.gif" width="700" alt="Naruto Eyes Gif">
-</div>" 
+
 
 # 💻 **Tech Stack**:
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
@@ -69,6 +66,12 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=mohizzzol&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
+
+<div align="center">  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRvZHU0dTJneXl5M2pycGIxNmZkbmd0MjZuaDMybGEzZXdoYnZhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Pz3glsQiO9EBNglcu/giphy.gif" width="700" alt="Naruto Eyes Gif">
+</div>
+
+
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=mohizzzol&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
