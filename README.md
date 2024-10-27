@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/BQkA.gif" width="200" alt="Naruto Eyes Gif">
+  <img src="https://www.google.com/url?sa=iurl=https%3A%2F%2Fclockworkmedia.co.za%2Fprojects%2Fxbox-black-panther-wakanda-forever%2Fpsig=AOvVaw25F_zUPstSN_53ne316Tjiust=1730119942569000source=imagescd=vfeopi=89978449ved=0CBQQjRxqFwoTCKDo2JrNrokDFQAAAAAdAAAAABAE" width="200" alt="Naruto Eyes Gif">
 </div>
 
 # 🔥 **Enter the world of Code & Darkness!**
