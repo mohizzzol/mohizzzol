@@ -11,8 +11,11 @@
 
 ## 👹 About Me:
 🔥 On a journey through **Software Development** and the depths of **Computer Science**.
+
 💀 Ready for intense, dark-themed collaborations—let’s create something groundbreaking!
+
 ⚽ When I'm not coding, I'm on the field, **scoring goals** and living the **footballer life**.
+
 🖤 Fun fact: My world revolves around **tech, football, and a hint of darkness**.
 
 <div align="center">
