@@ -62,6 +62,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FarukhS52/FarukhS52/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ## 🔝 **Top Contributed Repo**
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=mohizzzol&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
