@@ -83,10 +83,6 @@
   <img src="https://visitcount.itsvg.in/api?id=mohizzzol&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 </p>
 
-<p align="center">
-   <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c" width="900"/>
-</p>
-
   
 <!-- Made with 🖤 in the Dark Mode -->
-
+              </>
