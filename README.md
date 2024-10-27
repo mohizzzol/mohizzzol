@@ -14,7 +14,7 @@
 - 🖤 Fun fact: My world revolves around **tech, football, and a hint of darkness**.
 
 <div align="center">
-  <img src="https://i.gifer.com/BQkA.gif" width="900" alt="Coding in the Dark GIF">
+  <img src="https://i.gifer.com/BQkA.gif" width="300" alt="Coding in the Dark GIF">
 </div>
 
 <div align="center">
