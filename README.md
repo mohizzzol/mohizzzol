@@ -55,6 +55,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mohizzzol&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
+<p aling="center">
+  <img src="holopin.io/@mohizzzol"/>
+</p>
+
 ## 💬 **Quote of the Day**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
