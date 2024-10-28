@@ -80,12 +80,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRvZHU0dTJneXl5M2pycGIxNmZkbmd0MjZuaDMybGEzZXdoYnZhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Pz3glsQiO9EBNglcu/giphy.gif" width="700" alt="Naruto Eyes Gif">
 </div>
 
-
-
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=mohizzzol&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 </p>
-
   
 <<!--- Made with 🖤 in the Dark Mode ---!>>
