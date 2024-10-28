@@ -58,7 +58,7 @@
 ## 🧑‍💻 **Badges of Holopin**
 
 <p aling="center">
-  <img src="https://holopin.me/mohizzzol"/>
+  <img src="https://holopin.me/mohizzzol" width="700"/>
 </p>
 
 ## 💬 **Quote of the Day**
