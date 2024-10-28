@@ -81,7 +81,7 @@
 </div>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohizzzol&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=mohizzzol&label=Profile%20Views&color=6&icon=0&pretty=true" alt="Profile Views" />
 </p>
   
 <<!--- Made with 🖤 in the Dark Mode ---!>>
