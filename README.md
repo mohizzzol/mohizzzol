@@ -47,7 +47,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohizzzol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohizzzol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/stars/mohizzzol/REPO_NAME?style=social"/>
 </p>
+
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
