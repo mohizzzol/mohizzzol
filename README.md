@@ -55,7 +55,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mohizzzol&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
-## 🧑‍💻 **Badgets of Holopin**
+## 🧑‍💻 **Badges of Holopin**
 
 <p aling="center">
   <img src="https://holopin.me/mohizzzol"/>
