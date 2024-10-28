@@ -56,7 +56,7 @@
 </p>
 
 <p aling="center">
-  <img src="holopin.io/@mohizzzol"/>
+  <img src="https://holopin.me/mohizzzol"/>
 </p>
 
 ## 💬 **Quote of the Day**
