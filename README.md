@@ -61,6 +61,12 @@
   <img src="https://holopin.me/mohizzzol" width="700"/>
 </p>
 
+## 🏆 achievements of Microsoft
+
+<p aling="center">
+  <img src="https://learn.microsoft.com/api/achievements/share/en-us/MohitDeshmukh-0721/PSSMELZ4?sharingId=2892949A6A24F123"/>
+</p>
+
 ## 💬 **Quote of the Day**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
