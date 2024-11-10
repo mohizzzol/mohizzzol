@@ -51,7 +51,7 @@
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohizzzol&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Naereen&row=1"/>
 </p>
 
 ## 🧑‍💻 **Badges of Holopin**
