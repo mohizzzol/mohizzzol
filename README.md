@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohizzzol/mohizzzol/output/github-contribution-grid-snake-dark.svg"/>
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FarukhS52/FarukhS52/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 🔝 **Top Contributed Repo**
