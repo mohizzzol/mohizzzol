@@ -1,6 +1,4 @@
 
-🖤 Fun fact: My world revolves around **tech, football, and a hint of darkness**.
-
 <div align="center"><div align="center">  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlxNzZ5Mnl5cmRyODZxcjM4YjVkNHJwMTI4aWR4ZTRnempxYXI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DpaNIXwZaVPvnTomcj/giphy.gif" width="700" alt="Naruto Eyes Gif">
  
@@ -19,6 +17,8 @@
 💀 Ready for intense, dark-themed collaborations—let’s create something groundbreaking!
 
 ⚽ When I'm not coding, I'm on the field, **scoring goals** and living the **footballer life**.
+
+🖤 Fun fact: My world revolves around **tech, football, and a hint of darkness**.
 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFmbTN0bnV6dHAxcWYwd3VqMTY4bTM2dWJiM3BtOXRkNXpzczFmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0N7BUNOKBN8OhIjJEO/giphy.gif" width="700" alt="Naruto Eyes Gif">
 </div>
@@ -56,8 +56,8 @@
 
 ## 🧑‍💻 **Badges of Holopin**
 
-<p aling="center">
-  <img src="https://holopin.me/mohizzzol" width="700"/>
+<p align="center">
+  <img src="https://holopin.me/mohizzzol" width="800"/>
 </p>
 
 
@@ -83,8 +83,6 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=mohizzzol&label=Profile%20Views&color=6&icon=0&pretty=true" alt="Profile Views" />
 </p>
-  
-<<!--- Made with 🖤 in the Dark Mode ---!>>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
