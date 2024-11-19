@@ -1,4 +1,7 @@
-<div align="center">  
+
+🖤 Fun fact: My world revolves around **tech, football, and a hint of darkness**.
+
+<div align="center"><div align="center">  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlxNzZ5Mnl5cmRyODZxcjM4YjVkNHJwMTI4aWR4ZTRnempxYXI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DpaNIXwZaVPvnTomcj/giphy.gif" width="700" alt="Naruto Eyes Gif">
  
 
@@ -17,9 +20,6 @@
 
 ⚽ When I'm not coding, I'm on the field, **scoring goals** and living the **footballer life**.
 
-🖤 Fun fact: My world revolves around **tech, football, and a hint of darkness**.
-
-<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFmbTN0bnV6dHAxcWYwd3VqMTY4bTM2dWJiM3BtOXRkNXpzczFmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0N7BUNOKBN8OhIjJEO/giphy.gif" width="700" alt="Naruto Eyes Gif">
 </div>
 
